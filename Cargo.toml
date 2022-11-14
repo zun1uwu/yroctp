@@ -1,0 +1,2 @@
+[workspace]
+members = ["yroctp-encrypt", "yroctp-decrypt"]

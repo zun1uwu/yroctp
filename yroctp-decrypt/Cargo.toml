@@ -1,0 +1,8 @@
+[package]
+name = "yroctp-decrypt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+whoami = "1.2.3"
+libaes = "0.6.4"
